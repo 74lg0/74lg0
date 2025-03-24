@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/111157836?v=4" alt="Profile" width="250" height="250" style="border-radius: 50%; border: 5px solid white;">
+  <img src="https://github.com/user-attachments/assets/e6c432e5-3b13-4cb4-958b-7590d2874721" alt="Profile" width="250" height="250" style="border-radius: 50%; border: 5px solid white;">
 </p>
+
 
 # 👋 ¡Hola, soy 74lg0!
 
