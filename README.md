@@ -18,6 +18,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ## 🧱 Frameworks y Librerías
+- 👾 **TensorFlow**
 - 📊 **Matplotlib**: Visualización de datos.
 - 🔐 **Cryptography**: Cifrado y seguridad.
 - 🌐 **Socket**: Programación de red.
