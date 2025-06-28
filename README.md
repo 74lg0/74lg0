@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-## 🧱 Frameworks y Librerías
+## 🧱 Librerías
 - 👾 **TensorFlow**
 - 📊 **Matplotlib**: Visualización de datos.
 - 🔐 **Cryptography**: Cifrado y seguridad.
@@ -26,10 +26,10 @@
 - 💻 **Subprocess**: Para la ejecución en segundo plano
 
 ## 🌱 Proyectos Destacados
-- 🐍👾 **PyMalwareOS**: Herramienta educativa para pruebas de malware en entornos virtuales.
-- 🔎🖥️ **BARRACUDA**: Software dedicado a la denegación de servicio (DoS).
-- 🔐📁 **Dencrypter**: Un software de encriptación basado en **AES-CBC** usando **Cryptography.Fernet**.
-
+- 🐍👾 [PyMalwareOS](https://github.com/74lg0/PyMalwareOS): Herramienta para pruebas de malware en entornos virtuales.
+- 🔎🖥️ [BARRACUDA](https://github.com/74lg0/BARRACUDA): Software dedicado a la denegación de servicio (DoS).
+- 🔐📁 [Dencrypter](https://github.com/74lg0/Dencrypter): Un software de encriptación basado en **AES-CBC** usando **Cryptography.Fernet**.
+- 🖥️🖲️ [VoidShell](https://github.com/74lg0/VoidShell): En desarrollo…
 ## 📫 Conéctate Conmigo
 [![Oficial Site](https://img.shields.io/badge/Sitio%20Oficial-2E86C1?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://zalgo-git.alwaysdata.net)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/74lg0)
